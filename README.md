@@ -1,4 +1,4 @@
-# Розробник Петренко Іван
+# Розробник CaxarokMoy
 
 Ця нейронна мережа призначена для класифікації зображень рукописних цифр з набору даних MNIST. Вона має архітектуру з двома згортковими шарами, двома повнозв'язаними шарами та деякою регуляризацією у вигляді dropout.
 
@@ -17,7 +17,7 @@ RNN_EPOTH.py
 
 Таким чином, нейронна мережа тренується для класифікації цифр у наборі даних MNIST, і тренується протягом 15 епох.
 
-# Developer Petrenko Ivan 
+# Developer CaxarokMoy 
 
 This neural network is designed for the classification of handwritten digit images from the MNIST dataset. It has an architecture with two convolutional layers, two fully connected layers, and some regularization in the form of dropout.
 
